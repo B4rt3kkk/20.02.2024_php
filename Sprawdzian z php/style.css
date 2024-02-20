@@ -1,0 +1,23 @@
+h2{
+    justify-content: center;
+    display: flex;
+}
+ul{
+    justify-content: center;
+    display: flex;
+}
+li{
+    background-color: gainsboro;
+    padding: 5%;
+    margin: 5%;
+    box-shadow: 3px 3px 3px 3px gray;
+    justify-content: center;
+    display: flex;
+}
+h4{
+    padding: 5%;
+    margin: 5%;
+    box-shadow: 3px 3px 3px 3px gray;
+    justify-content: center;
+    display: flex;
+}
